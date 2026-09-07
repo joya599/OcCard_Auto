@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "updatedAt": "2026-09-07T10:43:42.094Z",
+  "cards": [
+    {
+      "id": "card-1788777822094",
+      "name": "伊莱恩-植物系",
+      "path": "cards/card-1788777822094/character.json",
+      "avatarPath": "cards/card-1788777822094/avatar.png",
+      "archived": false,
+      "updatedAt": "2026-09-07T10:43:42.094Z",
+      "revision": "9235fb55ea1942c5a51668b5e9509a6bc4c19f1a",
+      "worldbookSnapshot": {
+        "name": "🌱 从0开始的异世界植物养成指南",
+        "entryCount": 28,
+        "source": "linked",
+        "capturedAt": "2026-09-07T10:43:42.214Z"
+      }
+    }
+  ]
+}
